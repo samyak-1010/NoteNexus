@@ -4,9 +4,6 @@
   hey! Are you tired of the mundane task of copy and pasting information from web pages? 😫 I have the perfect solution for you! 😎 I've created a game-changing extension that will revolutionize the way you take notes. Simply select the text you want and with a click of a button, you can add it as a heading or bullet point in a notepad file. But wait, there's more! You can even create a new file and select it from the extension to add your notes. Say goodbye to the hassle of switching between tabs and say hello to a more efficient and convenient note-taking experience. Don't believe me? Try it out for yourself
 </h6>
 <h3>Lets make Life Easy 😎</h3>
-you can see live working of my project in one of my linkedIn post Video<br>
-<h4><a href="https://www.linkedin.com/feed/update/urn:li:activity:7160614997272788992/">SEE LIVE WORKING</a></h4>
-
 
 <h4>Features</h4>
 <h6>
